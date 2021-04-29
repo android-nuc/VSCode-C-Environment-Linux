@@ -1,7 +1,7 @@
 {
     "configurations": [
         {
-            "name": "MinGW GCC-x64",
+            "name": "GCC-x64",
             "intelliSenseMode": "gcc-x64",
             "compilerPath": "g++",
             "includePath": [
